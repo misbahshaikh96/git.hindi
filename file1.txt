@@ -2,3 +2,4 @@ Here’s a simple .gitignore file for a Node.js project that ignores .env and no
 
 lua
 Copy code
+x
