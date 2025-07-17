@@ -1,5 +1,0 @@
-Here’s a simple .gitignore file for a Node.js project that ignores .env and node_modules:
-
-lua
-Copy code
-x
