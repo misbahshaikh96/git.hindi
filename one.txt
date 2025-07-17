@@ -5,3 +5,4 @@ ab comit id phnch gae git log kr k dykh lain wo yhn h
 ab jitni bhi git repository hoti whn file expect ki jati h folder h esky root mn 1 file hoti h , jaisy webserver p hota index.html sppny appp pick klrlijaegi waisy h git es trhn design h readme.md sab yhn automatically push krdiya jaega ye markdown file h , to es readme.md mn appny kch text likha or add commit and push 
 last lecture # OPEN SOURCE CONTRIBUTION 
 github k sath open SOURCE nam ki chx ati h jo markt mn bht populr h , jb bhi open source mn contribute krn to phly bt krain , aisa nh k koi bhi appny repository uthae or seddha contribution krny nikl ghy , phly puchn to kya contribute krn koi issue h jo fix krna h koi bug mjhy fix krna h , or sab readme mn to nh jaskty k meiny grammar fix krdi , avoid kijiyega readme fixes ko value add krn , koi feasture add krna h to acha contribution hog 
+add this file
